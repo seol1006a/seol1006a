@@ -1,12 +1,12 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=0D1B2A&height=160&section=header&text=Welcome!%20😊&fontSize=40&fontColor=ffffff&desc=Embedded%20%26%20Edge%20AI%20Developer%2C%20Seol%20Yeong-Hyeon)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0D1B2A&height=160&section=header&text=Welcome!%20😊&fontSize=40&fontColor=ffffff&desc=A%20practical%20talent%20who%20combines%20technology%20and%20communication%2C%20Seol%20Yeong-Hyeon.&descAlignY=75&descAlign=50)
 
 ---
 
-# 👋 Seol Yeong-Hyeon’s GitHub 👋  
+# 👋 Seol Yeong-Hyeon's GitHub 👋  
 
-📧 **Email** : seol1006a@gmail.com  
+📧 **Email** : try9151@naver.com  
 
 ---
 
@@ -32,7 +32,7 @@
 ## 📜 Certificates 📜  
 
 - 📝 정보처리기사 **필기 합격**  
-- 📝 리눅스마스터 2급 **필기 합격**  
+- 📝 리눅스마스터 2급 **필기 합격**    
 - 🏅 대한상공회의소 [Intel] **AI SW 아카데미 과정 수료**  
 - 🚗 운전면허 **1종 보통**  
 
@@ -40,13 +40,13 @@
 
 # 🚀 My Projects 🚀  
 
-### 🔐 무인출입통제시스템  
-> STM32, Arduino, MariaDB, Raspberry Pi  
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)  
+### Smart-Shade  
+> STM32, Arduino, MariaDB, Raspberry Pi(TCP/IP)  
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![Raspberry Pi(TCP/IP)](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)  
 
 ---
 
-### 👕 옷 분류 및 인식 모델 구현  
+### 꼰 Desk  
 > YOLOX-TINY, EfficientNetV2  
 ![YOLOX](https://img.shields.io/badge/YOLOX--TINY-FF69B4?style=flat-square&logo=github&logoColor=black) ![EfficientNet](https://img.shields.io/badge/EfficientNetV2-228B22?style=flat-square&logo=google&logoColor=white)  
 
@@ -68,11 +68,10 @@
 > OpenCV, C  
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)  
 
----
 
-## 📊 GitHub Stats 📊  
+📊 GitHub Stats 📊  
 
-![Seol’s GitHub stats](https://github-readme-stats.vercel.app/api?username=seol1006a&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seol1006a&layout=compact&theme=radical)  
+![Junhyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=jun-hyung815&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jun-hyung815&layout=compact&theme=radical)  
 
 </div>
