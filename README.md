@@ -2,7 +2,8 @@
 
 ---
 
-# 👋 Seol Yeong-Hyeon's GitHub 👋  
+<h1 align="left">👋 Seol Yeong-Hyeon's GitHub 👋</h1>
+<p>임베디드 개발자가 되고 싶은 설영현입니다.</p>  
 
 📧 **Email** : seol1006@gmail.com  
 
