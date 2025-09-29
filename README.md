@@ -6,7 +6,7 @@
 
 # 👋 Seol Yeong-Hyeon's GitHub 👋  
 
-📧 **Email** : try9151@naver.com  
+📧 **Email** : seol1006@gmail.com  
 
 ---
 
