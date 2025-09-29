@@ -41,7 +41,7 @@
 
 # 🚀 My Projects 🚀  
 
-### Smart_Shade  
+### 🏖️ Smart_Shade  
 > STM32, Arduino, MariaDB, Raspberry Pi(TCP/IP)  
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![Raspberry Pi(TCP/IP)](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)  
 
@@ -53,13 +53,13 @@
 
 ---
 
-###  Intel_7_openCV_project  
+### 🧩 Intel_7_openCV_project  
 > OpenCV, Qt  
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
 
 ---
 
-### Smart_소방관(ROS2)  
+### 🧑‍🚒 Smart_소방관(ROS2) 🚒
 > Raspberry Pi, Jetson Nano, ROS2, STM32, OpenCV, AI, OpenCR  
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white) ![Jetson Nano](https://img.shields.io/badge/Jetson%20Nano-76B900?style=flat-square&logo=nvidia&logoColor=white) ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white) ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![AI](https://img.shields.io/badge/AI-FF1493?style=flat-square&logo=openai&logoColor=white) ![OpenCR](https://img.shields.io/badge/OpenCR-2B2B2B?style=flat-square)
 
