@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=0D1B2A&height=160&section=header&text=Welcome!%20😊&fontSize=40&fontColor=ffffff&desc=A%20practical%20talent%20who%20combines%20technology%20and%20communication%2C%20Seol%20Yeong-Hyeon.&descAlignY=75&descAlign=50)
 
