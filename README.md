@@ -48,31 +48,19 @@
 ---
 
 ### 꼰 Desk  
-> YOLOX-TINY, EfficientNetV2  
-![YOLOX](https://img.shields.io/badge/YOLOX--TINY-FF69B4?style=flat-square&logo=github&logoColor=black) ![EfficientNet](https://img.shields.io/badge/EfficientNetV2-228B22?style=flat-square&logo=google&logoColor=white)  
+> STM32, Raspberry Pi, OpenCV, Jetson Nano, Qt  
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Jetson Nano](https://img.shields.io/badge/Jetson%20Nano-76B900?style=flat-square&logo=nvidia&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
 
 ---
 
-### 👓 스마트 안경 구현  
-> Jetson Nano, 서버 통신, 카메라, OpenCV, AI  
-![Jetson Nano](https://img.shields.io/badge/Jetson%20Nano-76B900?style=flat-square&logo=nvidia&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![AI](https://img.shields.io/badge/AI-FF1493?style=flat-square&logo=openai&logoColor=white)  
+### 조각조각(퍼즐만들기)  
+> OpenCV, Qt  
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
 
 ---
 
-### 🤖 캐봇 (Carrier Robot – 캐리어 운반 로봇)  
-> ROS, Jetson Nano, Raspberry Pi, STM32, OpenCV, AI  
-![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white) ![Jetson Nano](https://img.shields.io/badge/Jetson%20Nano-76B900?style=flat-square&logo=nvidia&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white) ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![AI](https://img.shields.io/badge/AI-FF1493?style=flat-square&logo=openai&logoColor=white)  
-
----
-
-### 👁️ 눈동자 인식을 통한 디바이스 제어  
-> OpenCV, C  
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)  
-
-
-📊 GitHub Stats 📊  
-
-![Junhyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=jun-hyung815&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jun-hyung815&layout=compact&theme=radical)  
+### Smart_소방관(ROS2)  
+> Raspberry Pi, Jetson Nano, ROS2, STM32, OpenCV, AI, OpenCR  
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white) ![Jetson Nano](https://img.shields.io/badge/Jetson%20Nano-76B900?style=flat-square&logo=nvidia&logoColor=white) ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white) ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![AI](https://img.shields.io/badge/AI-FF1493?style=flat-square&logo=openai&logoColor=white) ![OpenCR](https://img.shields.io/badge/OpenCR-2B2B2B?style=flat-square)
 
 </div>
