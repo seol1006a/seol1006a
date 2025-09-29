@@ -39,24 +39,25 @@
 
 # 🚀 My Projects 🚀  
 
-### 🏖️ Smart_Shade  
+### 🏖️ [Smart_Shade](https://github.com/seol1006a/Smart_Shade)
 <sub>온습도 및 강수량에 따라 자동으로 작동하는 스마트 그늘막</sub><br>
 > STM32, Arduino, MariaDB, Raspberry Pi(TCP/IP)  
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![Raspberry Pi(TCP/IP)](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)  
 
 ---
 
-### 🖥️ Smart-Desk  
+### 🖥️ [Smart-Desk](https://github.com/seol1006a/Smart-Desk)
 <sub>사용자의 자세 및 졸음 감지를 통한 자동 출퇴근·자세 불량 감지 책상</sub><br>
 > STM32, Raspberry Pi, OpenCV, Jetson Nano, Qt  
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Jetson Nano](https://img.shields.io/badge/Jetson%20Nano-76B900?style=flat-square&logo=nvidia&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
 
 ---
 
-### 🧩 Intel_7_openCV_project  
+### 🧩 [Intel_7_openCV_project](https://github.com/seol1006a/Intel_7_openCV_project)
 <sub>웹캠으로 원하는 배경을 촬영해 퍼즐을 만드는 인터랙티브 게임</sub><br>
 > OpenCV, Qt  
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
+
 
 ---
 
