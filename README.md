@@ -1,12 +1,12 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=0D1B2A&height=160&section=header&text=Welcome!%20😊&fontSize=40&fontColor=ffffff&desc=A%20practical%20talent%20who%20combines%20technology%20and%20communication%2C%20Kim%20Jun-hyung.&descAlignY=75&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0D1B2A&height=160&section=header&text=Welcome!%20😊&fontSize=40&fontColor=ffffff&desc=Embedded%20%26%20Edge%20AI%20Developer%2C%20Seol%20Yeong-Hyeon)
 
 ---
 
-# 👋 Kim Jun-hyung's GitHub 👋  
+# 👋 Seol Yeong-Hyeon’s GitHub 👋  
 
-📧 **Email** : try9151@naver.com  
+📧 **Email** : seol1006a@gmail.com  
 
 ---
 
@@ -33,7 +33,6 @@
 
 - 📝 정보처리기사 **필기 합격**  
 - 📝 리눅스마스터 2급 **필기 합격**  
-- 🎓 호서대학교 **성적우수 장학금 (총장 C 장학금)** 수혜  
 - 🏅 대한상공회의소 [Intel] **AI SW 아카데미 과정 수료**  
 - 🚗 운전면허 **1종 보통**  
 
@@ -69,10 +68,11 @@
 > OpenCV, C  
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)  
 
+---
 
-📊 GitHub Stats 📊  
+## 📊 GitHub Stats 📊  
 
-![Junhyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=jun-hyung815&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jun-hyung815&layout=compact&theme=radical)  
+![Seol’s GitHub stats](https://github-readme-stats.vercel.app/api?username=seol1006a&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seol1006a&layout=compact&theme=radical)  
 
 </div>
