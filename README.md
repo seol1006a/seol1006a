@@ -5,29 +5,6 @@
 <h1 align="left">👋 Seol Yeong-Hyeon's GitHub 👋</h1>
 <p>임베디드 개발자가 되고 싶은 설영현입니다.</p>  
 
-# Mobile QA Portfolio (U+ Voice/Video Messaging)
-## 1. Overview
-- Role: QA Lead (2018.08~)
-- Scope: iOS/Android, Real-device 100+ / iOS13+ & Android 4.x+
-
-## 2. Test Artifacts
-- Test Plan (링크) · Release Checklist (링크)
-- Test Cases (iOS/Android 분리, 예외/장애 시나리오 포함)
-- Bug Reports (샘플 이슈 10건, 로그/재현영상 포함)
-- Compatibility Matrix (제조사/OS/망 조합)
-
-## 3. Process & Metrics
-- Defect lifecycle(Jira/DVMS) · Priority 기준 · 회귀 사이클
-- KPI: 재현성/누락률/TTR (전후 비교 그래프)
-
-## 4. Case Studies
-- [케이스A] iOS↔Android 영상연결 지연
-- [케이스B] 특정 USIM/망 조건 통화 실패
-- [케이스C] 대용량 첨부 시 UI 깨짐
-
-## 5. Playbooks
-- 실단말 랩 운영, 로그 수집 표준, 릴리스 게이트
-
 
 📧 **Email** : seol1006@gmail.com  
 
