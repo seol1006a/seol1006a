@@ -62,10 +62,16 @@
 
 ---
 
-### 🧑‍🚒 Smart_소방관(ROS2) 🚒
+### 🧑‍🚒 [LastProject_Smart_Firefighter](https://github.com/seol1006a/LastProject_Smart_Firefighter) 🚒
 <sub>불이 난 위치를 자동으로 찾아가 초기 진압 및 인명 구조를 수행하는 로봇 소방관</sub><br>
 > Raspberry Pi, Jetson Nano, ROS2, STM32, OpenCV, AI, OpenCR  
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white) ![Jetson Nano](https://img.shields.io/badge/Jetson%20Nano-76B900?style=flat-square&logo=nvidia&logoColor=white) ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white) ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![AI](https://img.shields.io/badge/AI-FF1493?style=flat-square&logo=openai&logoColor=white) ![OpenCR](https://img.shields.io/badge/OpenCR-2B2B2B?style=flat-square)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white) 
+![Jetson Nano](https://img.shields.io/badge/Jetson%20Nano-76B900?style=flat-square&logo=nvidia&logoColor=white) 
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white) 
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) 
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) 
+![AI](https://img.shields.io/badge/AI-FF1493?style=flat-square&logo=openai&logoColor=white) 
+![OpenCR](https://img.shields.io/badge/OpenCR-2B2B2B?style=flat-square)
 
 
 </div>
